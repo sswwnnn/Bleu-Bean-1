@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+      "jsx": "react",
+      "allowJs": true,
+      "esModuleInterop": true,
+      "target": "esnext",
+      "module": "esnext",
+      "moduleResolution": "node",
+      "outDir": "./dist"  // Specify the output directory
+    },
+    "include": ["src"]
+  }
